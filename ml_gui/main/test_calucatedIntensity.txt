@@ -1,0 +1,1 @@
+C:/Users/Mukesh Ranjan/OneDrive/Desktop/RaspBerry Pi proj/ml_gui/main/test.jpg -> Intensity:  71.57390381895333 

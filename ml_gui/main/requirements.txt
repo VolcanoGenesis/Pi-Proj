@@ -1,0 +1,15 @@
+joblib==1.3.2 
+matplotlib==3.8.0 // consider downgrading to a lighter version 
+numpy==1.26.1 
+opencv-python==4.8.1.78 // consider lighter versions or probably a different image processing library
+openpyxl==3.1.2 
+pandas==2.1.1 // use library : polars if possible
+Pillow==10.1.0 
+pyparsing==3.1.1 
+PyQt5==5.15.9 // can switch to Tkinter or pygame
+PyQt5-Qt5==5.15.2 // Tkinter or pygame
+PyQt5-sip==12.13.0 // Tkinter or pygame
+python-dateutil==2.8.2 
+scikit-learn==1.3.1 
+scipy==1.11.3 // probably limit the use but fine
+xgboost==2.0.0 // prefer LightGBM 
